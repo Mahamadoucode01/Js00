@@ -1,2 +1,2 @@
-var userName='Jhone';
-console.log('welcome '+userName);
+var userName='Jhon';
+console.log('Welcom '+userName);
