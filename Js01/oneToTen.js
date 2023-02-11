@@ -6,4 +6,4 @@ for (let i = 1; i <= 10; i++) {
     sum += i;
 }
 // Afficher la somme finale
-console.log("sum of numbers 1 to 10 : " + sum);
+console.log("Sum of numbers 1 to 10: " + sum);
