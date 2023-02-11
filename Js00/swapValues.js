@@ -1,6 +1,6 @@
 var a=10;
 var b=20;
-var c=0
+var c=0;
 c=b
 b=a
 a=c
