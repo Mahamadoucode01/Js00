@@ -5,8 +5,8 @@ const codeloccol = {
   tails: 1,  
   friends: ['Codeloccol Campers'],
 };
-function displayCompers(){
+function displayCampers(){
   
   console.log("'" + codeloccol.friends + "'")
 };
-displayCompers();
+displayCampers();
